@@ -117,3 +117,27 @@ p {
 .third-box {
     background-color: rgba(207, 193, 176, 0.822);
 }
+
+
+
+
+.donate-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 80px auto;
+    width: 90%;
+}
+
+.half-width {
+    width: 50%;
+    margin: 0px 20px;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.half-width p {
+    padding-bottom: 30px;
+}
