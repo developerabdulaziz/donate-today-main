@@ -32,7 +32,6 @@
     background-color: red;
     padding: 8px 20px;
     border-radius: 5px;
-
 }
 
 /*=============== Donate  Today =============== */
@@ -41,7 +40,7 @@
 } */
 
 .donate-heading {
-    margin-bottom: 100px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
@@ -51,8 +50,31 @@
 }
 
 .amount {
-    /* width: 80px;
-    height: 50px; */
-    padding: 50px 80px;
-    background-color: red;
+    padding: 40px 60px;
+    background-color: rgb(199, 193, 193);
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+
+#amount-tk {
+    color: red;
+    border: 2px solid red;
+}
+
+.payment {
+    text-align: center;
+}
+
+hr {
+    width: 800px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: red;
+    /* padding-bottom: 20px; */
+}
+
+p {
+    text-align: center;
+    padding-bottom: 5px;
 }
