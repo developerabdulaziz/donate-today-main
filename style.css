@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 /* -------top-banner-------- */
 .top-banner {
     margin-bottom: 100px;
@@ -93,10 +97,10 @@ p {
 
 .card {
     width: 26%;
-    height: 170px;
+    height: 200px;
     margin: 10px;
     border-radius: 10px;
-    padding: 10px 20px;
+    padding: 30px 30px;
     text-align: left;
 }
 
@@ -175,4 +179,12 @@ button {
     border: none;
     border-radius: 8px;
     font-size: 20px;
+}
+
+/* ================ footer section =================== */
+
+footer {
+    text-align: center;
+    background-color: rgb(22, 196, 16);
+    padding: 25px 0px;
 }
