@@ -120,7 +120,7 @@ p {
 
 
 
-
+/* ==========donate area========= */
 .donate-area {
     display: flex;
     align-items: center;
@@ -140,4 +140,39 @@ p {
 
 .half-width p {
     padding-bottom: 30px;
+}
+
+/* ================ email section =================== */
+
+.email-area {
+    text-align: center;
+    margin-left: 250px;
+    margin-bottom: 30px;
+    width: 800px;
+}
+
+.email {
+    margin-top: 20px;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#email-fild {
+    padding: 10px 20px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
 }
